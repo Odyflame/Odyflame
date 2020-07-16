@@ -17,7 +17,7 @@
 > CreateML, CoreML, ARKit, PencilKit, SwiftUI and More!!
 
 ## please connect me 
- - E-Mail: (odyflame@icloud.com)
+ - [E-Mail](odyflame@icloud.com)
  - [My Github](https://github.com/Odyflame)
  - [MY FaceBook](https://www.facebook.com/profile.php?id=100004453800775)
 
