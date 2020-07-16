@@ -18,7 +18,7 @@
 ## please connect me ✉️
  - [E-Mail](odyflame@icloud.com)
  - [My Github](https://github.com/Odyflame)
- - [MY FaceBook](https://www.facebook.com/profile.php?id=100004453800775)
+ - [My FaceBook](https://www.facebook.com/profile.php?id=100004453800775)
 
 <!--
 **Odyflame/Odyflame** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
