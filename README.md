@@ -1,11 +1,10 @@
 ### Hi there 👋
 
-# Welcome to My Github 💻
+# Welcome to My Github 💻 [![HitCount](http://hits.dwyl.com/Odyflame/Odyflame/Odyflame.svg)](http://hits.dwyl.com/Odyflame/Odyflame/Odyflame)
 
 *I am a LV.1 developer who studying iOS to become a global iOS developer. welcome!!*
 
 <div align="center">
-    <img src="http://hits.dwyl.com/Odyflame/Odyflame/Odyflame.svg?style=plastic" >
     <img src="https://img.shields.io/badge/HP-100-red?style=plastic">
     <img src="https://img.shields.io/badge/Age-26-9cf?style=plastic">
     <img src="https://img.shields.io/badge/Develop-iOS-white?style=plastic">
