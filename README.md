@@ -15,6 +15,12 @@
 ## i interested in 📱
 > CreateML, CoreML, ARKit, PencilKit, SwiftUI and More!!
 
+## Certificate of lecture or course completed 🧾
+ 
+ - iOS_fastCampus_All_in_One()
+ - 2019 iOS App 개발자 양성과정(https://codershigh.github.io/StudentReports/data/dgu/20_01/17/index.html)
+ - boostcourse iOS Developer(https://www.edwith.org/certificate/A20200717-213360?langCode=ko)
+
 ## please connect me ✉️
  - [My E-Mail](odyflame@icloud.com)
  - [My Github](https://github.com/Odyflame)
