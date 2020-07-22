@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-# Welcome to My Github 💻 [![HitCount](http://hits.dwyl.com/Odyflame/Odyflame/Odyflame.svg)]
+# Welcome to My Github 💻 ![HitCount](http://hits.dwyl.com/Odyflame/Odyflame/Odyflame.svg)
 
 *I am a LV.1 developer who studying iOS to become a global iOS developer. welcome!!*
 
