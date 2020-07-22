@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-# Welcome to My Github 💻 <div> <img src="http://hits.dwyl.com/Odyflame/Odyflame/Odyflame.svg" > </div>
+# Welcome to My Github 💻 <img src="http://hits.dwyl.com/Odyflame/Odyflame/Odyflame.svg" >
 
 *I am a LV.1 developer who studying iOS to become a global iOS developer. welcome!!*
 
