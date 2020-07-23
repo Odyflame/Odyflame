@@ -9,9 +9,8 @@
     <img src="https://img.shields.io/badge/Age-26-9cf?style=plastic">
     <img src="https://img.shields.io/badge/Develop-iOS-lightgray?style=plastic">
     <img src="https://img.shields.io/badge/Language-Swift-orange?style=plastic">
+    ![Odyflame's github stats](https://github-readme-stats.vercel.app/api?username=Odyflame&show_icons=true&theme=tokyonight)
 </div>
-
-![Odyflame's github stats](https://github-readme-stats.vercel.app/api?username=Odyflame&show_icons=true&theme=radical)
 
 ## I interested in 📱
 > CreateML, CoreML, ARKit, PencilKit, SwiftUI and More!!
