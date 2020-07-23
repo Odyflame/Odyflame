@@ -11,6 +11,7 @@
     <img src="https://img.shields.io/badge/Language-Swift-orange?style=plastic">
 </div>
 
+![Odyflame's github stats](https://github-readme-stats.vercel.app/api?username=Odyflame&show_icons=true&theme=radical)
 
 ## I interested in 📱
 > CreateML, CoreML, ARKit, PencilKit, SwiftUI and More!!
