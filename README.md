@@ -23,7 +23,6 @@
 
 ## Please connect me ✉️
  - [My E-Mail](odyflame@icloud.com)
- - [My Github](https://github.com/Odyflame)
  - [My FaceBook](https://www.facebook.com/profile.php?id=100004453800775)
 
 <!--
