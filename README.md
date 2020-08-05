@@ -17,9 +17,11 @@
 > CreateML, CoreML, ARKit, PencilKit, SwiftUI and More!!
 
 
-## Who i am
+## Who i am & what i study
  - [my Resume](https://www.notion.so/odyflame/Hyeonjae-Lee-d0b426c8392040fbb63b551e38e2017f)
- 
+ - my PortFolio (will be update soon)
+ - my tech blog (will be update)
+ - [junior InterView list](https://www.notion.so/odyflame/e9a92f6871c44b7aa33473eb84a68a5c?v=76ca4024e2e140b6b0a0e18e984c4df4)
 
 ## Please connect me ✉️
  - [My E-Mail](odyflame@icloud.com)
