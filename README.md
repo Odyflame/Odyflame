@@ -16,11 +16,12 @@
 ## I interested in 📱
 > CreateML, CoreML, ARKit, PencilKit, SwiftUI and More!!
 
+## Who i am
+
+ - ![my Resume](https://www.notion.so/odyflame/Hyeonjae-Lee-d0b426c8392040fbb63b551e38e2017f)
+
 ## Certificate of lecture or course completed 🧾
  
- - [iOS_fastCampus_All_in_One](https://github.com/Odyflame/Odyflame/blob/master/fastcampus-수료증명서.pdf)
- - [2019 iOS App 개발자 양성과정](https://codershigh.github.io/StudentReports/data/dgu/20_01/17/index.html)
- - [boostcourse iOS Developer](https://www.edwith.org/certificate/A20200717-213360?langCode=ko)
 
 ## Please connect me ✉️
  - [My E-Mail](odyflame@icloud.com)
