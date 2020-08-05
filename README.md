@@ -18,7 +18,7 @@
 
 ## Who i am
 
- - ![my Resume](https://www.notion.so/odyflame/Hyeonjae-Lee-d0b426c8392040fbb63b551e38e2017f)
+ - [my Resume](https://www.notion.so/odyflame/Hyeonjae-Lee-d0b426c8392040fbb63b551e38e2017f)
 
 ## Certificate of lecture or course completed 🧾
  
