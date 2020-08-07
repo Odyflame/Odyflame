@@ -22,7 +22,7 @@
  - ~My PortFolio~ (will be update soon)
  
 ## 📚 What i study
- - [Tech Journal](https://www.notion.so/odyflame/2cb053466320411ca993a23099eafd6c?v=2547f9fc554f4135a3700935d906fe97)
+ - [Tech Journal](https://www.notion.so/odyflame/Tech-Journal-8e267b8075dc4960b1568ab80b9d720e)
  - [Junior Interview List](https://www.notion.so/odyflame/e9a92f6871c44b7aa33473eb84a68a5c?v=76ca4024e2e140b6b0a0e18e984c4df4)
 
 ## ✉️ Please connect me
