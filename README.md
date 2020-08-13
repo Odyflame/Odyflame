@@ -14,7 +14,7 @@
 </div>
 
 ## 📱 I interested in
-> CreateML, CoreML, ARKit, Rx, PencilKit, SwiftUI and More!!
+> CreateML, CoreML, ARKit, Rx, SwiftUI and More!!
 
 
 ## 🧾 Who i am
