@@ -14,7 +14,7 @@
 </div>
 
 ## 📱 I interested in
-> CreateML, CoreML, ARKit, PencilKit, SwiftUI and More!!
+> CreateML, CoreML, ARKit, Rx, PencilKit, SwiftUI and More!!
 
 
 ## 🧾 Who i am
@@ -26,7 +26,7 @@
  - [Junior Interview List](https://www.notion.so/odyflame/e9a92f6871c44b7aa33473eb84a68a5c?v=76ca4024e2e140b6b0a0e18e984c4df4)
 
 ## ✉️ Please connect me
- - [My E-Mail](odyflame@icloud.com)
+ - My E-Mail: odyflame@icloud.com
  - [My FaceBook](https://www.facebook.com/profile.php?id=100004453800775)
 
 <!--
