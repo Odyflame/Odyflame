@@ -19,7 +19,7 @@
 
 ## 🧾 Who i am
  - [My Resume](https://www.notion.so/odyflame/Hyeonjae-Lee-d0b426c8392040fbb63b551e38e2017f)  
- - [My Resume(ENG ver)](https://www.notion.so/odyflame/Hyeonjae-Lee-Eng-ver-69f7ac824187480f855f8775fec738b2)  
+ - [My Resume (ENG ver)](https://www.notion.so/odyflame/Hyeonjae-Lee-Eng-ver-69f7ac824187480f855f8775fec738b2)  
  - ~My PortFolio~ (will be update soon)
  
 ## 📚 What i study
