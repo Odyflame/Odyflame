@@ -24,7 +24,7 @@
  
 ## 📚 What i study
  - [Tech Journal](https://www.notion.so/odyflame/Tech-Journal-8e267b8075dc4960b1568ab80b9d720e)
- - [ToDo List](https://www.notion.so/odyflame/2021-To-Do-cb30910623b840c39d0d166ab744ac4a)
+ - [ToDo List](https://www.notion.so/odyflame/ToDo-List-6b05b747cd124a6ca10d6838b9aaac4a)
  - ~[Junior Interview List](https://www.notion.so/odyflame/e9a92f6871c44b7aa33473eb84a68a5c?v=76ca4024e2e140b6b0a0e18e984c4df4)~
 
 ## ✉️ Please connect me
