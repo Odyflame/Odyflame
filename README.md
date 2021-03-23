@@ -22,12 +22,12 @@
 
 ## 🧾 Who i am
  - [![My Resume](http://img.shields.io/badge/-My_Resume-black?style=for-the-badge&logo=notion)](https://www.notion.so/odyflame/Hyeonjae-Lee-d0b426c8392040fbb63b551e38e2017f)  
- - [![My Resume (ENG VER)](http://img.shields.io/badge/-My_Resume_(ENG_VER)-black?style=for-the-badge&logo=notion)](https://www.notion.so/odyflame/Hyeonjae-Lee-Eng-ver-69f7ac824187480f855f8775fec738b2)  
+ - [![My Resume (ENG VER)](http://img.shields.io/badge/-My_Resume_(ENG_VER)-black?style=flat-squere&logo=notion)](https://www.notion.so/odyflame/Hyeonjae-Lee-Eng-ver-69f7ac824187480f855f8775fec738b2)  
  - ~My PortFolio~ (will be update soon)
  
 ## 📚 What i study
- - [Tech Journal](https://www.notion.so/odyflame/Tech-Journal-8e267b8075dc4960b1568ab80b9d720e)
- - [ToDo List](https://www.notion.so/odyflame/ToDo-List-6b05b747cd124a6ca10d6838b9aaac4a)
+ - [![Tech Journal](http://img.shields.io/badge/-Tech_Journal-black?style=flat&logo=notion)](https://www.notion.so/odyflame/Tech-Journal-8e267b8075dc4960b1568ab80b9d720e)
+ - [![ToDo List](http://img.shields.io/badge/-ToDo_List-black?style=plastic&logo=notion)](https://www.notion.so/odyflame/ToDo-List-6b05b747cd124a6ca10d6838b9aaac4a)
  - ~[Junior Interview List](https://www.notion.so/odyflame/e9a92f6871c44b7aa33473eb84a68a5c?v=76ca4024e2e140b6b0a0e18e984c4df4)~
 
 ## ✉️ Please connect me
