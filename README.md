@@ -15,7 +15,7 @@
     <p>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Odyflame&layout=compact&theme=tokyonight">
     <p style="border-left: 20px solid #688FF4; padding: 0.5em; border-bottom: 2px solid #688FF4; ">My Algorithm</p>
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=2015112119">
+    <a href="http://www.naver.com"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=2015112119"></a>
 
 </div>
 
