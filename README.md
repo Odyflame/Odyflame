@@ -22,7 +22,7 @@
 
 ## 🧾 Who i am
  - [![My Resume](http://img.shields.io/badge/-My_Resume-black?style=for-the-badge&logo=notion)](https://www.notion.so/odyflame/Hyeonjae-Lee-d0b426c8392040fbb63b551e38e2017f)  
- - [![My Resume (ENG VER)](http://img.shields.io/badge/-Notion-black?style=for-the-badge&logo=notion)](https://www.notion.so/odyflame/Hyeonjae-Lee-Eng-ver-69f7ac824187480f855f8775fec738b2)  
+ - [![My Resume (ENG VER)](http://img.shields.io/badge/-My_Resume_(ENG_VER)-black?style=for-the-badge&logo=notion)](https://www.notion.so/odyflame/Hyeonjae-Lee-Eng-ver-69f7ac824187480f855f8775fec738b2)  
  - ~My PortFolio~ (will be update soon)
  
 ## 📚 What i study
