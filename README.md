@@ -32,7 +32,7 @@
 
 ## ✉️ Please connect me
  - My E-Mail: odyflame@icloud.com
- - [![My FaceBook](http://img.shields.io/badge/-My_FaceBook-blue?style=plastic&logo=facebook)](https://www.facebook.com/profile.php?id=100004453800775)
+ - [![My FaceBook](http://img.shields.io/badge/-My_FaceBook-5A79FF?style=plastic&logo=facebook)](https://www.facebook.com/profile.php?id=100004453800775)
  - [![My Twitter](http://img.shields.io/badge/-My_Twitter-9cf?style=plastic&logo=twitter)](https://twitter.com/Odyflame)
 
 <!--
