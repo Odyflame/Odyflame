@@ -13,7 +13,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=Odyflame&show_icons=true&theme=tokyonight">
     <p>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Odyflame&layout=compact&theme=tokyonight">
-    <p><span style="border-radius: 0 15px 15px 0; border-left: inset; padding: 0.6em; background: #EBEEF0;">My Algorithm</span></p>
+    <p style="border-left: 20px solid #688FF4; padding: 0.5em; border-bottom: 2px solid #688FF4; ">My Algorithm</p>
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=2015112119">
 
 </div>
