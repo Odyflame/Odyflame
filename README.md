@@ -22,6 +22,8 @@
 ## 📱 I interested in
 > CreateML, CoreML, RIBs, ARKit, Rx, SwiftUI and More!!
 
+## 📕 Tech Blog
+ There are lots of my Articles. *WWDC*, *Book Reviews*, *Studing Any Docs* or *Algorithm* and More! Just come here and take a look: [![Tech Journal](http://img.shields.io/badge/-Tech_Journal-black?style=plastic&logo=notion)](https://www.notion.so/odyflame/Tech-Journal-8e267b8075dc4960b1568ab80b9d720e)
 
 ## 🧾 Who i am
  - [![My Resume](http://img.shields.io/badge/-My_Resume-black?style=plastic&logo=notion)](https://www.notion.so/odyflame/Hyeonjae-Lee-d0b426c8392040fbb63b551e38e2017f)  
@@ -29,7 +31,6 @@
  - ~My PortFolio~ (will be update soon)
  
 ## 📚 What i study
- - [![Tech Journal](http://img.shields.io/badge/-Tech_Journal-black?style=plastic&logo=notion)](https://www.notion.so/odyflame/Tech-Journal-8e267b8075dc4960b1568ab80b9d720e)
  - [![ToDo List](http://img.shields.io/badge/-ToDo_List-black?style=plastic&logo=notion)](https://www.notion.so/odyflame/ToDo-List-6b05b747cd124a6ca10d6838b9aaac4a)
  - [![Junior Interview List](http://img.shields.io/badge/-iOS_Interview_Question_List-black?style=plastic&logo=notion)](https://www.notion.so/odyflame/e9a92f6871c44b7aa33473eb84a68a5c?v=76ca4024e2e140b6b0a0e18e984c4df4)
 
