@@ -23,7 +23,8 @@
 > CreateML, CoreML, RIBs, ARKit, Rx, SwiftUI and More!!
 
 ## 📕 Tech Blog
- There are lots of my Articles. *WWDC*, *Book Reviews*, *Studing Any Docs* or *Algorithm* and More! Just come here and take a look: [![Tech Journal](http://img.shields.io/badge/-Tech_Journal-black?style=plastic&logo=notion)](https://www.notion.so/odyflame/Tech-Journal-8e267b8075dc4960b1568ab80b9d720e)
+ There are lots of my Articles. *WWDC*, *Book Reviews*, *Studing Any Docs* or *Algorithm* and More! Just come here and take a look: 
+ - [![Tech Journal](http://img.shields.io/badge/-Tech_Journal-black?style=plastic&logo=notion)](https://www.notion.so/odyflame/Tech-Journal-8e267b8075dc4960b1568ab80b9d720e)
 
 ## 🧾 Who i am
  - [![My Resume](http://img.shields.io/badge/-My_Resume-black?style=plastic&logo=notion)](https://www.notion.so/odyflame/Hyeonjae-Lee-d0b426c8392040fbb63b551e38e2017f)  
