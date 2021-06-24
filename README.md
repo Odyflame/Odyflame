@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=What's%20Up&animation=twinkling&fontSize=40)
+
 ### Hi there 👋
 
 # Welcome to My Github 💻 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FOdyflame%2FOdyflame)](https://hits.seeyoufarm.com)
@@ -42,6 +44,8 @@
  - My E-Mail: odyflame@icloud.com
  - [![My FaceBook](http://img.shields.io/badge/-My_FaceBook-f3f3f3?style=plastic&logo=facebook)](https://www.facebook.com/profile.php?id=100004453800775)
  - [![My Twitter](http://img.shields.io/badge/-My_Twitter-9cf?style=plastic&logo=twitter)](https://twitter.com/Odyflame)
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer)
 
 <!--
 **Odyflame/Odyflame** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
