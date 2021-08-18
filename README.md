@@ -42,7 +42,6 @@
 
 ## ✉️ Please connect me
  - My E-Mail: odyflame@icloud.com
- - [![My FaceBook](http://img.shields.io/badge/-My_FaceBook-f3f3f3?style=plastic&logo=facebook)](https://www.facebook.com/profile.php?id=100004453800775)
  - [![My Twitter](http://img.shields.io/badge/-My_Twitter-9cf?style=plastic&logo=twitter)](https://twitter.com/Odyflame)
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer)
