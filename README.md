@@ -41,7 +41,7 @@
  * and also... [Here](https://github.com/Odyflame/WWDC-Raywenderlich-Study) 
 
 ## ✉️ Please connect me
- - My E-Mail: odyflame@icloud.com
+ - odyflame@icloud.com
  - [![My Twitter](http://img.shields.io/badge/-My_Twitter-9cf?style=plastic&logo=twitter)](https://twitter.com/Odyflame)
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer)
