@@ -4,7 +4,7 @@
 
 # Welcome to My Github 💻 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FOdyflame%2FOdyflame)](https://hits.seeyoufarm.com)
 
-*welcome!! i love apple and iOS..whatever*
+*Welcome!! I love apple and iOS..whatever*
 
 <div align="center">
     <img src="https://img.shields.io/badge/HP-100-red?style=plastic">
