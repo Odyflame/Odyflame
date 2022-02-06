@@ -8,7 +8,7 @@ Welcome!! I'm currently working on **Kakaopay**.
 
 <div align="center">
     <img src="https://img.shields.io/badge/HP-100-red?style=plastic">
-    <img src="https://img.shields.io/badge/Age-27-9cf?style=plastic">
+    <img src="https://img.shields.io/badge/Age-28-9cf?style=plastic">
     <img src="https://img.shields.io/badge/Develop-iOS-lightgray?style=plastic">
     <img src="https://img.shields.io/badge/Language-Swift-orange?style=plastic">
     <p>
