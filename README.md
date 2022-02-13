@@ -22,7 +22,7 @@ Welcome!! I'm currently working on **Kakaopay**.
 </div>
 
 ## 📱 I interested in
-> CreateML, RIBs, ARKit, Rx, SwiftUI, Combine and More!!
+> CoreML, RIBs, ARKit, SwiftUI, Combine and More!!
 
 ## 📕 Tech Blog
  There are lots of my Articles. *WWDC*, *Book Reviews*, *Studing Any Docs* or *Algorithm* and More! Just come here and take a look: 
@@ -30,8 +30,7 @@ Welcome!! I'm currently working on **Kakaopay**.
 
 ## 🧾 Who i am
  - [![My Resume](http://img.shields.io/badge/-My_Resume-black?style=plastic&logo=notion)](https://www.notion.so/odyflame/Hyeonjae-Lee-d0b426c8392040fbb63b551e38e2017f)  
- - [![My Resume (ENG VER)](http://img.shields.io/badge/-My_Resume_(ENG_VER)-black?style=plastic&logo=notion)](https://www.notion.so/odyflame/Hyeonjae-Lee-Eng-ver-69f7ac824187480f855f8775fec738b2)  
- - ~My PortFolio~ (will be update soon)
+ - [![My Resume (ENG VER)](http://img.shields.io/badge/-My_Resume_(ENG_VER)-black?style=plastic&logo=notion)](https://www.notion.so/odyflame/Hyeonjae-Lee-Eng-ver-69f7ac824187480f855f8775fec738b2)
  
 ## 📚 What i study
  - [![ToDo List](http://img.shields.io/badge/-ToDo_List-black?style=plastic&logo=notion)](https://www.notion.so/odyflame/ToDo-List-6b05b747cd124a6ca10d6838b9aaac4a)
@@ -41,7 +40,7 @@ Welcome!! I'm currently working on **Kakaopay**.
  * and also... [Here](https://github.com/Odyflame/WWDC-Raywenderlich-Study) 
 
 ## ✉️ Please connect me
- - odyflame@icloud.com
+ - [![My LinkedIn](http://img.shields.io/badge/-My_LinkedIn-9cf?style=plastic&logo=linkedin)](https://www.linkedin.com/in/hyeonjae-lee-a172631b0/)
  - [![My Twitter](http://img.shields.io/badge/-My_Twitter-9cf?style=plastic&logo=twitter)](https://twitter.com/Odyflame)
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer)
