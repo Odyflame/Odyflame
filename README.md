@@ -37,7 +37,7 @@ Welcome!! I'm currently working on **Kakaopay**.
  - [![iOS, Swift Study List](http://img.shields.io/badge/-iOS_Swift_Study_List-black?style=plastic&logo=notion)](https://www.notion.so/odyflame/e9a92f6871c44b7aa33473eb84a68a5c?v=76ca4024e2e140b6b0a0e18e984c4df4)
 
    
- * and also... [Here](https://github.com/Odyflame/WWDC-Raywenderlich-Study) 
+ * and.. Come Here, [Dongguk Tech Salon](https://odyflame.notion.site/odyflame/436f2b8036954e65ab27197199b5cd38) 
 
 ## ✉️ Please connect me
  - [![My LinkedIn](http://img.shields.io/badge/-My_LinkedIn-9cf?style=plastic&logo=linkedin)](https://www.linkedin.com/in/hyeonjae-lee-a172631b0/)
