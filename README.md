@@ -30,7 +30,7 @@ find **AvoCado** in Careerly!
  - [![Tech Journal](http://img.shields.io/badge/-Tech_Journal-black?style=plastic&logo=notion)](https://odyflame.notion.site/Tech-Journal-8e267b8075dc4960b1568ab80b9d720e)
 
 ## 🧾 Who i am
- - [![My Resume]([http://img.shields.io/badge/-My_Resume-black?style=plastic&logo=notion)](https://www.notion.so/odyflame/Hyeonjae-Lee-d0b426c8392040fbb63b551e38e2017f](https://app.notion.com/p/odyflame/Hyeonjae-Lee-1b1fad8830ca80babb5ed2939044d189))  
+ - [![My Resume]([http://img.shields.io/badge/-My_Resume-black?style=plastic&logo=notion)](https://www.notion.so/odyflame/Hyeonjae-Lee-d0b426c8392040fbb63b551e38e2017f](https://app.notion.com/p/odyflame/Hyeonjae-Lee-1b1fad8830ca80babb5ed2939044d189)  
  
 ## 📚 What i study
  - [![ToDo List](http://img.shields.io/badge/-ToDo_List-black?style=plastic&logo=notion)](https://www.notion.so/odyflame/ToDo-List-6b05b747cd124a6ca10d6838b9aaac4a)
